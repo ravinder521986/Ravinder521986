@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "03E7242A2BC46DCDC8E8E0B865150B4BC2B0F0A3",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "fd679b2a-bcc8-4358-99bb-6f2fc49b16d5++9171" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "03E7242A2BC46DCDC8E8E0B865150B4BC2B0F0A3" : 0,
     "fd679b2a-bcc8-4358-99bb-6f2fc49b16d5++9171" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7FBE29E5-0365-4552-818A-C0DF8396FBE7",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "03E7242A2BC46DCDC8E8E0B865150B4BC2B0F0A3" : "Ravinder521986\/",
     "fd679b2a-bcc8-4358-99bb-6f2fc49b16d5++9171" : "Project\/ASIHTTPRequest\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Project",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Project.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ravinder521986\/Ravinder521986.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "03E7242A2BC46DCDC8E8E0B865150B4BC2B0F0A3"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/172.16.144.1:1028",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
