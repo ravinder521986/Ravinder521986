@@ -1,0 +1,35 @@
+//
+//  Project-Prefix.pch
+//  Project
+//
+//  Created by MAC on 11/07/15.
+//  Copyright (c) 2015 MAC. All rights reserved.
+//
+
+#ifndef Project_Project_Prefix_pch
+#define Project_Project_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+
+
+
+#define webServiceUrl @"http://staging.tkofinancialsolutions.com/"
+
+
+
+
+
+#define roboto_bold_37           ([NSDictionary dictionaryWithObject:[UIFont fontWithName:@"Arial" size:25] forKey: NSFontAttributeName])
+
+
+#define Arial_15           ([NSDictionary dictionaryWithObject:[UIFont fontWithName:@"Arial" size:15] forKey: NSFontAttributeName])
+
+
+#define bold_font          ([NSDictionary dictionaryWithObject:[UIFont fontWithName:@"Helvetica-Bold" size:16] forKey: NSFontAttributeName])
+
+
+
